@@ -18,7 +18,7 @@ public class Lesson2 {
                 try {
                     sum = sum + tryParse(array, row, col);
                 } catch (MyArrayDataException e) {
-                    e.printStackTrace();
+                    e.printStackTrace(); //werwr
                 }
             }
         }
